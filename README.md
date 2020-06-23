@@ -40,7 +40,7 @@ Vue.use(VBulmaBreakpoints)
 
 ## Breakpoints
 
-Breakpoints are set to [https://bulma.io/documentation/overview/responsiveness/](bulma breakpoints).
+Breakpoints are set to [https://bulma.io/documentation/overview/responsiveness](bulma breakpoints).
 
 **mobile (until 768px)**
 
